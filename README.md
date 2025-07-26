@@ -1,4 +1,4 @@
-📚 Faculty Feedback System
+**📚 Faculty Feedback System**
 A web-based platform for collecting and managing student feedback about faculty, with distinct roles for HODs, Teachers, and Students.
 
 👥 User Roles & Flow
